@@ -14,4 +14,4 @@ export BUILD_USERNAME=ibratabian17
  source build/envsetup.sh
  
 # Build the ROM
-lunch aosp_beryllium-userdebug && mka bacon
+lunch aosp_beryllium-bp2a-userdebug && mka bacon

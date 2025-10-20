@@ -14,4 +14,4 @@ export BUILD_USERNAME=ibratabian17
  source build/envsetup.sh
  
 # Build the ROM
-lunch halcyon_beryllium-bp2a-userdebug && mka bacon
+lunch halcyon_beryllium-bp2a-userdebug && mka carthage
